@@ -1,0 +1,33 @@
+﻿#EXTM3U
+#EXTINF:0 group-title="Malaysia" tvg-id="tv1.my" ,TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:0 group-title="Malaysia" tvg-id="tv2.my" ,TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:0 group-title="Malaysia" tvg-id="tv3.my" ,TV3
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRabcoL8kiE5RW4jsRMOnDg)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+#EXTINF:0 group-title="Malaysia" tvg-id="tv9.my" ,TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:0 group-title="Malaysia" tvg-id="ntv7.my" ,NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:0 group-title="Malaysia" tvg-id="8tv.my" ,8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:0 group-title="Hiburan" ,HBO
+https://brhn.xyz/stream/m3u/hbo-4july2020.m3u
+#EXTINF:0 group-title="Hiburan" ,HBO China
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT
+#EXTINF:0 group-title="Hiburan" ,Fox Movies
+http://brhn.xyz/stream/sc/foxprem.php
+#EXTINF:0 group-title="Hiburan" ,Fox Movies Thailand
+https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
+#EXTINF:0 group-title="Hiburan" ,Movies Now X
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+#EXTINF:0 group-title="Hiburan" ,Movies Now
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+#EXTINF:0 group-title="Hiburan" ,Sony Max HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:0 group-title="Hiburan" ,Sony Pix HD
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:0 group-title="Sukan" ,Fox Sports
+https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
+#EXTINF:0 group-title="Sukan" ,Fox Sports 2
+https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
