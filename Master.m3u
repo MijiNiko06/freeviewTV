@@ -1,0 +1,119 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alhijrah" tvg-logo="" group-title="Malaysia" tvg-shift="-24",Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="TV1" tvg-logo="" group-title="Malaysia" tvg-shift="-24",TV1
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV2" tvg-logo="" group-title="Malaysia" tvg-shift="-24",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="" group-title="Malaysia" tvg-shift="-24",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9" tvg-logo="" group-title="Malaysia" tvg-shift="-24",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV7" tvg-logo="" group-title="Malaysia" tvg-shift="-24",NTV7
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUzsATu-2ydpPbriFxOV-iY)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8TV" tvg-logo="" group-title="Malaysia" tvg-shift="-24",8TV
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSvjVieSfInVFsZA21qvpMA)/dm/3/x6qud17/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OKEY" tvg-logo="" group-title="Malaysia" tvg-shift="-24",OKEY
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BERITA RTM" tvg-logo="" group-title="Malaysia" tvg-shift="-24",BERITA RTM
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTM SPORTS" tvg-logo="" group-title="Malaysia" tvg-shift="-24",RTM SPORTS
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS [TV Sarawak]" tvg-logo="" group-title="Malaysia" tvg-shift="-24",TVS [TV Sarawak]
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arirang Korea" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Arirang Korea
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN [Vietnam]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",AXN [Vietnam]
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX [Vietnam]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",FOX [Vietnam]
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hello" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now X" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Movies Now X
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Sony Max HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Sony Pix HD
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel NewsAsia" tvg-logo="" group-title="Berita" tvg-shift="-24",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Awani" tvg-logo="" group-title="Berita" tvg-shift="-24",Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Berita RTM" tvg-logo="" group-title="Berita" tvg-shift="-24",Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax " tvg-logo="" group-title="Filem" tvg-shift="-24",Cinemax 
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",Cinemax [Indonesia]
+http://bonev2.xyz:80/playlist/Go-max-new-bonetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Movies [Vietnam]" tvg-logo="" group-title="Filem" tvg-shift="-24",Fox Movies [Vietnam]
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO [Indonesia]
+http://bonev2.xyz:80/playlist/Go-hbo-new-bonetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Family
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Family [Indonesia]
+http://bonev2.xyz:80/playlist/Go-fam-new-bonetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Hits
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Hits [Indonesia]
+http://bonev2.xyz:80/playlist/Go-hits-new-bonetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature " tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Signature 
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Signature [Indonesia]
+http://bonev2.xyz:80/playlist/Go-sig-new-bonetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX1" tvg-logo="" group-title="Jepun" tvg-shift="-24",MX1
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX2" tvg-logo="" group-title="Jepun" tvg-shift="-24",MX2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Asahi" tvg-logo="" group-title="Jepun" tvg-shift="-24",TV Asahi
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo" tvg-logo="" group-title="Jepun" tvg-shift="-24",TV Tokyo
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go Shop Gaaya" tvg-logo="" group-title="Beli-Belah" tvg-shift="-24",Go Shop Gaaya
+http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go Shop Ruuma" tvg-logo="" group-title="Beli-Belah" tvg-shift="-24",Go Shop Ruuma
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go Shop Cina" tvg-logo="" group-title="Beli-Belah" tvg-shift="-24",Go Shop Cina
+https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkah TV" tvg-logo="" group-title="Keagamaan" tvg-shift="-24",Makkah TV
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w655950915.m3u8?v=2945006303
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quran TV" tvg-logo="" group-title="Keagamaan" tvg-shift="-24",Quran TV
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist_w2066488187.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="" group-title="Keagamaan" tvg-shift="-24",Peace TV
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8?wowzasessionid=1381081611
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV IKIM" tvg-logo="" group-title="Keagamaan" tvg-shift="-24",TV IKIM
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naura" tvg-logo="" group-title="Keagamaan" tvg-shift="-24",Naura
+https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic" tvg-logo="" group-title="Edukasi" tvg-shift="-24",National Geographic
+http://5.135.92.133:52841/out/u/83_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCTI" tvg-logo="" group-title="Indonesia" tvg-shift="-24",RCTI
+	  https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Global TV (GTV)" tvg-logo="" group-title="Indonesia" tvg-shift="-24",Global TV (GTV)
+http://brhn.xyz/stream/globaltvhd.m3u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNCTV" tvg-logo="" group-title="Indonesia" tvg-shift="-24",MNCTV
+http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTV" tvg-logo="" group-title="Indonesia" tvg-shift="-24",ANTV
+http://brhn.xyz/stream/sc/antv.php
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRANS TV" tvg-logo="" group-title="Indonesia" tvg-shift="-24",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trans 7" tvg-logo="" group-title="Indonesia" tvg-shift="-24",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SCTV" tvg-logo="" group-title="Indonesia" tvg-shift="-24",SCTV
+https://tv.mbahnunungonline.net/playlist/sctvhd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indosiar" tvg-logo="" group-title="Indonesia" tvg-shift="-24",Indosiar
+https://etslive-2-vidio-com.akamaized.net/exp=1594244237~acl=/hls-b/ingest_205_*/*~hmac=c26654c2627e9c2ed4fe71a1ca52ee0992beed725e4a3f4b1dd34b6aaf350e5e/hls-b/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tvone" tvg-logo="" group-title="Indonesia" tvg-shift="-24",tvone
+http://brhn.xyz/stream/sc/tvone.php
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFC" tvg-logo="" group-title="Gaya Hidup" tvg-shift="-24",AFC
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network" tvg-logo="" group-title="Gaya Hidup" tvg-shift="-24",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTB Sukmaindera" tvg-logo="" group-title="Brunei" tvg-shift="-24",RTB Sukmaindera
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Vaanavil" tvg-logo="" group-title="Tamil" parent-code="tamil" tvg-shift="-24",Astro Vaanavil
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
