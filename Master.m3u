@@ -98,7 +98,7 @@ http://brhn.xyz/stream/globaltvhd.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNCTV" tvg-logo="" group-title="Indonesia" tvg-shift="-24",MNCTV
 http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTV" tvg-logo="" group-title="Indonesia" tvg-shift="-24",ANTV
-http://brhn.xyz/stream/sc/antv.php
+https://gratismkctv.net/oxygen/oxygen.m3u8?channel=antv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRANS TV" tvg-logo="" group-title="Indonesia" tvg-shift="-24",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trans 7" tvg-logo="" group-title="Indonesia" tvg-shift="-24",Trans 7
