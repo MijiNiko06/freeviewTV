@@ -21,6 +21,18 @@ https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS [TV Sarawak]" tvg-logo="" group-title="Malaysia" tvg-shift="-24",TVS [TV Sarawak]
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ceria" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Ceria
+http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71080.m3u8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Citra" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Citra
+http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71146.m3u8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oasis" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Oasis
+http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71021.m3u8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prima" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Prima
+http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71020.m3u8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ria" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Ria
+http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1705.m3u8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warna" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Warna
+http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71022.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arirang Korea" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN [Vietnam]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",AXN [Vietnam]
@@ -40,7 +52,7 @@ https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=e
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel NewsAsia" tvg-logo="" group-title="Berita" tvg-shift="-24",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Awani" tvg-logo="" group-title="Berita" tvg-shift="-24",Awani
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8?checkedby:iptvcat.com
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Berita RTM" tvg-logo="" group-title="Berita" tvg-shift="-24",Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax " tvg-logo="" group-title="Filem" tvg-shift="-24",Cinemax 
@@ -98,7 +110,7 @@ http://brhn.xyz/stream/globaltvhd.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNCTV" tvg-logo="" group-title="Indonesia" tvg-shift="-24",MNCTV
 http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANTV" tvg-logo="" group-title="Indonesia" tvg-shift="-24",ANTV
-https://gratismkctv.net/oxygen/oxygen.m3u8?channel=antv
+http://brhn.xyz/stream/sc/antv.php
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRANS TV" tvg-logo="" group-title="Indonesia" tvg-shift="-24",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trans 7" tvg-logo="" group-title="Indonesia" tvg-shift="-24",Trans 7
@@ -117,3 +129,13 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Vaanavil" tvg-logo="" group-title="Tamil" parent-code="tamil" tvg-shift="-24",Astro Vaanavil
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena" tvg-logo="" group-title="Sukan" tvg-shift="-24",Arena
+http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71102.m3u8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport" tvg-logo="" group-title="Sukan" tvg-shift="-24",SuperSport
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supersport 2" tvg-logo="" group-title="Sukan" tvg-shift="-24",Supersport 2
+http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/59219.m3u8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supersport 3" tvg-logo="" group-title="Sukan" tvg-shift="-24",Supersport 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 4" tvg-logo="" group-title="Sukan" tvg-shift="-24",SuperSport 4
+http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/59217.m3u8.ts
