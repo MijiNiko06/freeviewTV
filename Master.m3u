@@ -21,16 +21,42 @@ https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVS [TV Sarawak]" tvg-logo="" group-title="Malaysia" tvg-shift="-24",TVS [TV Sarawak]
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTB Sukmaindera" tvg-logo="" group-title="Brunei" tvg-shift="-24",RTB Sukmaindera
+https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX1" tvg-logo="" group-title="Jepun" tvg-shift="-24",MX1
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX2" tvg-logo="" group-title="Jepun" tvg-shift="-24",MX2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Asahi" tvg-logo="" group-title="Jepun" tvg-shift="-24",TV Asahi
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo" tvg-logo="" group-title="Jepun" tvg-shift="-24",TV Tokyo
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animax [Indonesian Sub]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Animax [Indonesian Sub]
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aniplus [Indonesian Sub]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Aniplus [Indonesian Sub]
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN [Indonesia]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",AXN [Indonesia]
+http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Entertainment" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Blue Ant Entertainment
+http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ceria" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Ceria
 http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71080.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Citra" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Citra
 http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71146.m3u8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM HD [Chinese Sub]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",GEM HD [Chinese Sub]
+http://47.240.54.137/jieting.php?id=1350
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kix [Indonesia]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Kix [Indonesia]
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oasis" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Oasis
 http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71021.m3u8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One HD [Indonesian Sub]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",One HD [Indonesian Sub]
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prima" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Prima
 http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71020.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ria" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Ria
 http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1705.m3u8.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVN [Chinese Sub]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",TVN [Chinese Sub]
+http://47.240.54.137/jieting.php?id=1583
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warna" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Warna
 http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71022.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arirang Korea" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Arirang Korea
@@ -63,28 +89,28 @@ http://bonev2.xyz:80/playlist/Go-max-new-bonetv.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO [Asia Feed]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO [Asia Feed]
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO [Indonesia]
 http://bonev2.xyz:80/playlist/Go-hbo-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Family
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family [Asia Feed]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Family [Asia Feed]
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Family [Indonesia]
 http://bonev2.xyz:80/playlist/Go-fam-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Hits
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits [Asia Feed]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Hits [Asia Feed]
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Hits [Indonesia]
 http://bonev2.xyz:80/playlist/Go-hits-new-bonetv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature " tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Signature 
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Signature [Indonesia]
 http://bonev2.xyz:80/playlist/Go-sig-new-bonetv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX1" tvg-logo="" group-title="Jepun" tvg-shift="-24",MX1
-https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MX2" tvg-logo="" group-title="Jepun" tvg-shift="-24",MX2
-https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Asahi" tvg-logo="" group-title="Jepun" tvg-shift="-24",TV Asahi
-http://203.162.235.41:16906
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Tokyo" tvg-logo="" group-title="Jepun" tvg-shift="-24",TV Tokyo
-http://203.162.235.41:16908
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go Shop Gaaya" tvg-logo="" group-title="Beli-Belah" tvg-shift="-24",Go Shop Gaaya
 http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go Shop Ruuma" tvg-logo="" group-title="Beli-Belah" tvg-shift="-24",Go Shop Ruuma
@@ -125,8 +151,6 @@ http://brhn.xyz/stream/sc/tvone.php
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network" tvg-logo="" group-title="Gaya Hidup" tvg-shift="-24",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTB Sukmaindera" tvg-logo="" group-title="Brunei" tvg-shift="-24",RTB Sukmaindera
-https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Vaanavil" tvg-logo="" group-title="Tamil" parent-code="tamil" tvg-shift="-24",Astro Vaanavil
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena" tvg-logo="" group-title="Sukan" tvg-shift="-24",Arena
