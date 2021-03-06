@@ -40,25 +40,25 @@ http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Entertainment" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Blue Ant Entertainment
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ceria" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Ceria
-http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71080.m3u8.ts
+http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71080.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Citra" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Citra
-http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71146.m3u8.ts
+http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71146.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM HD [Chinese Sub]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",GEM HD [Chinese Sub]
 http://47.240.54.137/jieting.php?id=1350
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kix [Indonesia]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Kix [Indonesia]
 http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oasis" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Oasis
-http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71021.m3u8.ts
+http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71021.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One HD [Indonesian Sub]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",One HD [Indonesian Sub]
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prima" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Prima
-http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71020.m3u8.ts
+http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71020.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ria" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Ria
 http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1705.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVN [Chinese Sub]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",TVN [Chinese Sub]
 http://47.240.54.137/jieting.php?id=1583
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warna" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Warna
-http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71022.m3u8.ts
+http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71022.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arirang Korea" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN [Vietnam]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",AXN [Vietnam]
@@ -154,12 +154,12 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Vaanavil" tvg-logo="" group-title="Tamil" parent-code="tamil" tvg-shift="-24",Astro Vaanavil
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena" tvg-logo="" group-title="Sukan" tvg-shift="-24",Arena
-http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71102.m3u8.ts
+http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71102.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport" tvg-logo="" group-title="Sukan" tvg-shift="-24",SuperSport
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supersport 2" tvg-logo="" group-title="Sukan" tvg-shift="-24",Supersport 2
-http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/59219.m3u8.ts
+http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/59219.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supersport 3" tvg-logo="" group-title="Sukan" tvg-shift="-24",Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport 4" tvg-logo="" group-title="Sukan" tvg-shift="-24",SuperSport 4
-http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/59217.m3u8.ts
+http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/59217.m3u8.ts
