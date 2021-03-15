@@ -42,7 +42,7 @@ http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ceria" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Ceria
 http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71080.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Citra" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Citra
-http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71146.m3u8.ts
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEM HD [Chinese Sub]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",GEM HD [Chinese Sub]
 http://47.240.54.137/jieting.php?id=1350
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kix [Indonesia]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Kix [Indonesia]
@@ -52,7 +52,7 @@ http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71021.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One HD [Indonesian Sub]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",One HD [Indonesian Sub]
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prima" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Prima
-http://Mijidesu@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71020.m3u8.ts
+http://live8.cdn.iptv8k.org:80/review_stream/primakbmm23/i.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ria" tvg-logo="" group-title="Hiburan" tvg-shift="-24",Ria
 http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1705.m3u8.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVN [Chinese Sub]" tvg-logo="" group-title="Hiburan" tvg-shift="-24",TVN [Chinese Sub]
@@ -130,7 +130,7 @@ https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic" tvg-logo="" group-title="Edukasi" tvg-shift="-24",National Geographic
 http://5.135.92.133:52841/out/u/83_1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCTI" tvg-logo="" group-title="Indonesia" tvg-shift="-24",RCTI
-	  https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Global TV (GTV)" tvg-logo="" group-title="Indonesia" tvg-shift="-24",Global TV (GTV)
 http://brhn.xyz/stream/globaltvhd.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNCTV" tvg-logo="" group-title="Indonesia" tvg-shift="-24",MNCTV
