@@ -92,29 +92,21 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=YTMyMTQ4MTEtMzE2YS0zNGNmLWJkZDEtMDRmNWMyYzBjN2U5
 http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO
-http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO [Asia Feed]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO [Asia Feed]
 https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO [Indonesia]
-http://bonev2.xyz:80/playlist/Go-hbo-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Family
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family [Asia Feed]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Family [Asia Feed]
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Family [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Family [Indonesia]
-http://bonev2.xyz:80/playlist/Go-fam-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Hits
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits [Asia Feed]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Hits [Asia Feed]
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Hits [Indonesia]
-http://bonev2.xyz:80/playlist/Go-hits-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature " tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Signature 
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature [Indonesia]" tvg-logo="" group-title="Filem" tvg-shift="-24",HBO Signature [Indonesia]
-http://bonev2.xyz:80/playlist/Go-sig-new-bonetv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go Shop Gaaya" tvg-logo="" group-title="Beli-Belah" tvg-shift="-24",Go Shop Gaaya
 http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go Shop Ruuma" tvg-logo="" group-title="Beli-Belah" tvg-shift="-24",Go Shop Ruuma
