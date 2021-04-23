@@ -6,9 +6,9 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-id="tv1.my" tvg-name="TV1" tvg-logo="" group-title="Malaysia",TV1
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV2" tvg-logo="" group-title="Malaysia",TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+http://51.79.208.146:61980/myplay/c_58002/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="" group-title="Malaysia",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+http://51.79.208.146:61980/myplay/c_58003/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV6" tvg-logo="" group-title="Malaysia",TV6
 https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9" tvg-logo="" group-title="Malaysia",TV9
