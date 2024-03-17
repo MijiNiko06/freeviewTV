@@ -1,0 +1,32 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+
+#EXTINF:-1 tvg-id="101.astro" ch-number="101" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="102.astro" ch-number="102" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="103.astro" ch-number="103" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
+https://raw.githubusercontent.com/MijiNiko06/temp-folder-file-ONLY/main/TV3%20FHD.m3u
+#EXTINF:-1 tvg-id="147.astro" ch-number="107" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
+https://raw.githubusercontent.com/MijiNiko06/temp-folder-file-ONLY/main/NTV7-Didik-TV.m3u8
+#EXTINF:-1 tvg-id="148.astro" ch-number="108" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
+https://raw.githubusercontent.com/MijiNiko06/temp-folder-file-ONLY/main/8TV.m3u8
+#EXTINF:-1 tvg-id="149.astro" ch-number="109" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1632px-TV9_%28Malaysia%29_logo.svg.png",TV9
+https://raw.githubusercontent.com/MijiNiko06/temp-folder-file-ONLY/main/TV9.m3u8
+#EXTINF:-1 tvg-id="146.astro" ch-number="110" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 tvg-id="" ch-number="111" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/800px-Sukan_RTM_1_April.png?20240229031036",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
+#EXTINF:-1 tvg-id="123.astro" ch-number="112" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",Awesome TV [Redacted after 19 March 2024]
+https://raw.githubusercontent.com/MijiNiko06/temp-folder-file-ONLY/main/Awesome_TV.m3u8
+#EXTINF:-1 tvg-id="" ch-number="113" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-id="114.astro" ch-number="114" group-title="myFreeview" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png",TV Alhijrah
+https://raw.githubusercontent.com/MijiNiko06/temp-folder-file-ONLY/main/TV%20-Alhijrah.m3u8
+#EXTINF:-1 tvg-id="" ch-number="116" group-title="myFreeview" tvg-logo="https://www.suketv.com/sitepad-data/uploads/2023/06/logo-STV.png",SUKE TV
+https://live.mana2.my/SukeTv/tracks-v1a1/mono.m3u8?auth_key=1710715858-49b204d875134d5ba632ed49908bea00-0-f923a6c5bddb9e797c01cc90a122aa0b
+#EXTINF:-1 tvg-id="502.astro" ch-number="121" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/1200px-Bernama_TV.png",Bernama TV
+https://raw.githubusercontent.com/MijiNiko06/YTLive/main/youtube.m3u
+#EXTINF:-1 tvg-id="122.astro" ch-number="122" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",TVS
+https://live.mana2.my/TvS/index.m3u8?auth_key=1710716286-c18319ea6cd24decaf38f7865ed3a82f-0-ee99dae4e8adb41649638339369a4c06
+#EXTINF:-1 tvg-id="" ch-number="123" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/1200px-Logo_Berita_RTM.png",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
