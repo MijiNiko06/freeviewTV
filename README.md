@@ -31,5 +31,5 @@ There are known issues that OTT Navigator cannot play ```text/plain``` , so kind
 | KSA القرآن الكريم  | 1920x1080 30fps | Islamic Channel | ✓ | Source from Official YouTube Live | | English burn-in for taraweeh and other occasions |
 
 # Credits
-azimabid00 - EPG
-benmoose - Youtube Live Grabber
+* azimabid00 - EPG
+* benmoose - Youtube Live Grabber
