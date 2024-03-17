@@ -16,10 +16,10 @@ There are known issues that OTT Navigator cannot play ```text/plain``` , so kind
 |---|---|---|---|---|---|---|
 | TV1 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from RTMKlik | | Burn-in for select programmes |
 | TV2 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from RTMKlik | | Burn-in for select programmes |
-| TV3 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from Unifi (have DRM) | | Burn-in for select programmes |
-| DidikTV KPM | 1920x1080 25fps | Education | ✓ | Sourced from Unifi (have DRM) | Previously NTV7 |
-| 8TV | 1920x1080 25fps | Chinese Variety | ✓ | Sourced from Unifi (have DRM) | 八度空间 | Malay Subtitles burn-in for select programmes |
-| TV9 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from Unifi (have DRM), Upscaled from pre-SD | | Burn-in for select programmes |
+| TV3 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from Tonton | | Burn-in for select programmes |
+| DidikTV KPM | 1920x1080 25fps | Education | ✓ | Sourced from Tonton | Previously NTV7 |
+| 8TV | 1920x1080 25fps | Chinese Variety | ✓ | Sourced from Tonton | 八度空间 | Malay Subtitles burn-in for select programmes |
+| TV9 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from Tonton | | Burn-in for select programmes |
 | OKEY | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from RTMKlik | | Burn-in for select programmes |
 | Sukan RTM | 1920x1080 25fps | Sport (Local & International) | ✓ | Sourced from RTMKlik |
 | Awesome TV | 1920x1080 50fps | Malaysian Variety | ✓ | Sourced from [Redacted] | | Burn-in for select programmes |
