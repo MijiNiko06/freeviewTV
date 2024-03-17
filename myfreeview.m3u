@@ -30,3 +30,5 @@ https://raw.githubusercontent.com/MijiNiko06/YTLive/main/youtube.m3u
 https://live.mana2.my/TvS/index.m3u8?auth_key=1710716286-c18319ea6cd24decaf38f7865ed3a82f-0-ee99dae4e8adb41649638339369a4c06
 #EXTINF:-1 tvg-id="" ch-number="123" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/1200px-Logo_Berita_RTM.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#EXTINF:-1 tvg-id="" ch-number="124" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg",KSA القرآن الكريم
+https://raw.githubusercontent.com/MijiNiko06/YTLive/main/meccalive.m3u8
