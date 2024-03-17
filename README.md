@@ -1,13 +1,35 @@
-# IPTV
-An IPTV Playlist made by me. This playlist will be updated only if i have some spare time to update it.
+# Introduction
+An IPTV based on myFreeview, Malaysia's FTA broadcasting.
 
 # Before using, read this.
-This list has no EPG at all. If you know how to make it, please teach me. 
+This IPTV list is using "https://github.com/azimabid00/epg" for EPG. 
 Play using header supported player.
-Do not rely on this playlist as your default, everyday channel list because sometimes i didnt update in 5-6 months
+You MAY NOT rely this playlist for everyday use, some channels will not be updated after a few months, so stay tuned.
 
-# Source
-All over github. Go and search yourself. 
+# How to use?
+Put this [link](https://raw.githubusercontent.com/MijiNiko06/freeviewTV/master/myfreeview.m3u) into supported players (e.g TiViMate, TVirl)
 
-# Note
-Although it was simple, but i just make it as a hobby
+There are known issues that OTT Navigator cannot play ```text/plain``` , so kindly use this [link](https://raw.githubusercontent.com/MijiNiko06/freeviewTV/master/OTT_Nav-myfreeview.m3u)
+
+# Channel Listing
+| Channel Name | Maximum Resolution | Category | HD | Additional notes | Native Channel Name | Subtitles |
+|---|---|---|---|---|---|---|
+| TV1 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from RTMKlik | | Burn-in for select programmes |
+| TV2 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from RTMKlik | | Burn-in for select programmes |
+| TV3 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from Unifi (have DRM) | | Burn-in for select programmes |
+| DidikTV KPM | 1920x1080 25fps | Education | ✓ | Sourced from Unifi (have DRM) | Previously NTV7 |
+| 8TV | 1920x1080 25fps | Chinese Variety | ✓ | Sourced from Unifi (have DRM) | 八度空间 | Malay Subtitles burn-in for select programmes |
+| TV9 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from Unifi (have DRM), Upscaled from pre-SD | | Burn-in for select programmes |
+| OKEY | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from RTMKlik | | Burn-in for select programmes |
+| Sukan RTM | 1920x1080 25fps | Sport (Local & International) | ✓ | Sourced from RTMKlik |
+| Awesome TV | 1920x1080 50fps | Malaysian Variety | ✓ | Sourced from [Redacted] | | Burn-in for select programmes |
+| TV6 | 1920x1080 25fps | Classics | ✓ | Sourced from RTMKlik | | 
+| SUKE TV | 1920x1080 25fps | Lifestyle & Shopping | ✓ | Sourced from Mana2 | |
+| Bernama TV | 1920x1080 59.97fps | News | ✓ | Source from Official YouTube Live | |
+| TVS | 1920x1080 25fps | Malaysian Variety | ✓ | Source from Mana2 | | Burn-in for select programmes |
+| Berita RTM | 1920x1080 25fps | News | ✓ | Sourced from RTMKlik |
+| KSA القرآن الكريم  | 1920x1080 30fps | Islamic Channel | ✓ | Source from Official YouTube Live | | English burn-in for taraweeh and other occasions |
+
+# Credits
+azimabid00 - EPG
+benmoose - Youtube Live Grabber
