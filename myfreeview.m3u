@@ -142,3 +142,7 @@ https://stream.rcs.revma.com/nzgauqq1v7zuv
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
+#EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name="MelakaFM" tvg-logo="https://melakafm.rtm.gov.my/storage/app/uploads/public/607/8f6/72b/6078f672b4db1209076280.png",Melaka FM
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC_SC
