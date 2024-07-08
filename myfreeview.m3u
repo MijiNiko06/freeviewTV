@@ -33,6 +33,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 tvg-id="" ch-number="124" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg",KSA القرآن الكريم
 https://raw.githubusercontent.com/MijiNiko06/YTLive/main/meccalive.m3u8
 
+#################### TEMPORARY #####################
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9cc552a8a2d46ab05c827b6f3a59b10:ea5f1c775483efae21247b5c48263735
+#EXTINF:-1 tvg-id="483.astro" group-title="Temporary"  tvg-logo="",Ghostbusters Frozen Empire
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default.mpd
+
 
 #################### RADIO ####################
 #EXTINF:-1 tvg-chno="869" tvg-id="869.astro" tvg-name="Nasional FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-NasionalFM.png",RTM Radio Nasional
