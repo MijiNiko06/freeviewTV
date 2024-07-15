@@ -32,6 +32,8 @@ https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 tvg-id="" ch-number="124" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg",KSA القرآن الكريم
 https://raw.githubusercontent.com/MijiNiko06/YTLive/main/meccalive.m3u8
+#EXTINF:-1 tvg-id="501.astro" ch-number="501" group-title="myFreeview" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #################### TEMPORARY #####################
 #KODIPROP:inputstream.adaptive.license_type=clearkey
