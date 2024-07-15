@@ -39,6 +39,7 @@ https://raw.githubusercontent.com/MijiNiko06/YTLive/main/meccalive.m3u8
 #EXTINF:-1 tvg-id="483.astro" group-title="Temporary"  tvg-logo="",Ghostbusters Frozen Empire
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default.mpd
 
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #EXTINF:-1 tvg-id="128.unifi" group-title="Temporary"  tvg-logo="",Dunia Sinema
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
