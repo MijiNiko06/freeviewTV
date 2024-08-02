@@ -36,10 +36,6 @@ https://raw.githubusercontent.com/MijiNiko06/YTLive/main/meccalive.m3u8
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #################### TEMPORARY #####################
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9cc552a8a2d46ab05c827b6f3a59b10:ea5f1c775483efae21247b5c48263735
-#EXTINF:-1 tvg-id="483.astro" group-title="Temporary"  tvg-logo="",Ghostbusters Frozen Empire
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -50,7 +46,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="615.astro" group-title="Temporary"  tvg-logo="",Cartoon Network Mongolia
+#EXTINF:-1 tvg-id="615.astro" group-title="Temporary"  tvg-logo="",Cartoon Network Mongolia [English]
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
 #EXTINF:-1 tvg-id="471.unifi" ch-number="471" group-title="Temporary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/814_1920x1080_HTV.png",GEM HD
@@ -64,6 +60,25 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#################### OLYMPICS #####################
+#EXTINF:-1 tvg-id="" ch-number="" group-title="Olympics" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png",RTM Channel 1
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="Olympics" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png",RTM Channel 2
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd?id=12
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="Olympics" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png",RTM Channel 3
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd?id=13
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="Olympics" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png",RTM Channel 4
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd?id=14
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="Olympics" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png",RTM Channel 5
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd?id=15
+
+#EXTINF:-1 tvg-id="" ch-number="" group-title="Olympics" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-6.png",RTM Channel 6
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd?id=16
 
 
 #################### RADIO ####################
