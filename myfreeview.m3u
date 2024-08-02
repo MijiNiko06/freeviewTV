@@ -34,6 +34,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 https://raw.githubusercontent.com/MijiNiko06/YTLive/main/meccalive.m3u8
 #EXTINF:-1 tvg-id="501.astro" ch-number="501" group-title="myFreeview" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#EXTINF:-1 tvg-id="" ch-number="" group-title="myFreeview" tvg-logo="https://rtm.glueapi.io/v1/content/17411/image/960x540/images.title",RTM Asean
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/manifest.mpd?id=17411
 
 #################### TEMPORARY #####################
 
