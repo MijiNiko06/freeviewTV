@@ -16,8 +16,8 @@ https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-id="" ch-number="111" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/800px-Sukan_RTM_1_April.png?20240229031036",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
-#EXTINF:-1 tvg-id="123.astro" ch-number="112" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",Awesome TV [Redacted after 19 March 2024]
-https://raw.githubusercontent.com/MijiNiko06/temp-folder-file-ONLY/main/Awesome_TV.m3u8
+#EXTINF:-1 tvg-id="123.astro" ch-number="112" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",Awesome TV
+https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/manifest.mpd
 #EXTINF:-1 tvg-id="" ch-number="113" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="114.astro" ch-number="114" group-title="myFreeview" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png",TV Alhijrah
