@@ -22,13 +22,14 @@ There are known issues that OTT Navigator cannot play ```text/plain``` , so kind
 | TV9 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from Tonton | | Burn-in for select programmes |
 | OKEY | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from RTMKlik | | Burn-in for select programmes |
 | Sukan RTM | 1920x1080 25fps | Sport (Local & International) | ✓ | Sourced from RTMKlik |
-| Awesome TV | 1920x1080 50fps | Malaysian Variety | ✓ | Sourced from [Redacted] | | Burn-in for select programmes |
+| Awesome TV | 1920x1080 50fps | Malaysian Variety | ✓ | Sourced from AwesomeTV itself | | Burn-in for select programmes |
 | TV6 | 1920x1080 25fps | Classics | ✓ | Sourced from RTMKlik | | 
-| SUKE TV | 1920x1080 25fps | Lifestyle & Shopping | ✓ | Sourced from Mana2 | |
+| SUKE TV | 1920x1080 25fps | Lifestyle & Shopping |  | Currently there's no static link | |
 | Bernama TV | 1920x1080 59.97fps | News | ✓ | Source from Official YouTube Live | |
-| TVS | 1920x1080 25fps | Malaysian Variety | ✓ | Source from Mana2 | | Burn-in for select programmes |
+| TVS | 1920x1080 25fps | Malaysian Variety | ✓ | Source from TVS | | Burn-in for select programmes |
 | Berita RTM | 1920x1080 25fps | News | ✓ | Sourced from RTMKlik |
 | KSA القرآن الكريم  | 1920x1080 30fps | Islamic Channel | ✓ | Source from Official YouTube Live | | English burn-in for taraweeh and other occasions |
+| RTM Asean | 1920x1080 25fps | News | ✓ | Sourced from RTMKlik |
 
 # Credits
 * azimabid00 - EPG
