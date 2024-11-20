@@ -7,10 +7,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="103.astro" ch-number="103" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
 https://tonton-live-sg1.akamaized.net/live-hls/tonton12.m3u8?&hdnts=exp=1732120866~hmac=0063711a27453737699622daec0a3451b8057ad463e955fe46d0ee0ec87e0725
 #EXTINF:-1 tvg-id="147.astro" ch-number="107" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
+
 #EXTINF:-1 tvg-id="148.astro" ch-number="108" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
 https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 #EXTINF:-1 tvg-id="149.astro" ch-number="109" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1632px-TV9_%28Malaysia%29_logo.svg.png",TV9
-https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
+https://tonton-live-sg1.akamaized.net/live-hls/tonton15.m3u8?&hdnts=exp=1732120895~hmac=92a4a3245d02136350ac0c608084cb8e34365963ce849b3f7d145a5d73559080
 #EXTINF:-1 tvg-id="146.astro" ch-number="110" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-id="" ch-number="111" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/800px-Sukan_RTM_1_April.png?20240229031036",Sukan RTM
