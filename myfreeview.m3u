@@ -15,8 +15,9 @@ https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-id="" ch-number="111" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/800px-Sukan_RTM_1_April.png?20240229031036",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
+#EXTVLCOPT:http-referrer=https://awesometv.my
 #EXTINF:-1 tvg-id="123.astro" ch-number="112" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",Awesome TV
-https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/manifest.mpd
+http://cdnatv.mirack.tv/Atv/manifest.mpd
 #EXTINF:-1 tvg-id="" ch-number="113" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="114.astro" ch-number="114" group-title="myFreeview" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png",TV Alhijrah
@@ -26,7 +27,9 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11e
 #EXTINF:-1 tvg-id="502.astro" ch-number="121" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/1200px-Bernama_TV.png",Bernama TV
 https://raw.githubusercontent.com/MijiNiko06/YTLive/main/youtube.m3u
 #EXTINF:-1 tvg-id="122.astro" ch-number="122" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",TVS
-https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
+https://live-tvs.tvsarawak.my/live/tvs.m3u8
+#EXTINF:-1 tvg-id="122.astro" ch-number="125" group-title="myFreeview" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/11/TVS_Plus_Logo_v14.png",TVS Plus
+https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-id="" ch-number="123" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/1200px-Logo_Berita_RTM.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 tvg-id="" ch-number="124" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg",KSA القرآن الكريم
