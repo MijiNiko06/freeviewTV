@@ -151,6 +151,10 @@ https://stream.rcs.revma.com/crec9cmbv4uvv
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
 https://stream.rcs.revma.com/azatk0tbv4uvv
+#EXTINF:-1 tvg-chno="864" tvg-id="864.astro" tvg-name="INDIA BEAT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png",India Beat (Astro Radio)
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/hrcdg9ubv4uvv/hls.m3u8
 #EXTINF:-1 tvg-chno="876" tvg-id="876.astro" tvg-name="ZAYAN" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/AstroRadio/zayan.png",Zayan (Astro Radio)
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
@@ -179,23 +183,63 @@ https://stream.rcs.revma.com/xt9nhzsbv4uvv
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
-#EXTINF:-1 tvg-chno="924" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/BestFM.png",Best FM
+#EXTINF:-1 tvg-chno="924" tvg-id="" tvg-name="Sinar Irama 80an" tvg-logo="https://media2.fishtank.my/stations/sinar-irama80/080224/square_md.png",Sinar FM Irama 80an
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
-https://stream.rcs.revma.com/h34x4kgg9hhvv
-#EXTINF:-1 tvg-chno="925" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/BFM89.9.png",BFM 89.9
+https://stream.rcs.revma.com/xdz7f5g811uvv/hls.m3u8
+#EXTINF:-1 tvg-chno="925" tvg-id="" tvg-name="Sinar Irama 70an" tvg-logo="https://media2.fishtank.my/stations/sinar-irama70/080224/square_md.png",Sinar FM Irama 70an
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/bb4ey1g811uvv/hls.m3u8
+#EXTINF:-1 tvg-chno="926" tvg-id="" tvg-name="Sinar Jiwang" tvg-logo="https://media2.fishtank.my/stations/sinar-jiwang/080224/square_md.png",Sinar FM Jiwang
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/5s38zah811uvv/hls.m3u8
+#EXTINF:-1 tvg-chno="927" tvg-id="" tvg-name="Sinar Rock Kapak" tvg-logo="https://media2.fishtank.my/stations/sinar-rock/080224/square_md.png",Sinar FM Rock Kapak
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/rz43weh811uvv/hls.m3u8
+#EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name="Sinar IraMalaysia" tvg-logo="https://media2.fishtank.my/stations/sinar-iramalaysia/080224/square_md.png",Sinar FM IraMalaysia
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/mm13z8g811uvv/hls.m3u8
+#EXTINF:-1 tvg-chno="929" tvg-id="" tvg-name="Sinar I-Musik" tvg-logo="https://media2.fishtank.my/stations/sinar-imusik/080224/square_md.png",Sinar FM I-Musik
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/m0mha6g811uvv/hls.m3u8
+#EXTINF:-1 tvg-chno="930" tvg-id="" tvg-name="Sinar Pop Yeh Yeh" tvg-logo="https://media2.fishtank.my/stations/sinar-popyehyeh/080224/square_md.png",Sinar FM Pop Yeh Yeh
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/1scz4dh811uvv/hls.m3u8
+#EXTINF:-1 tvg-chno="931" tvg-id="" tvg-name="Gegar Hindi Power" tvg-logo="https://media2.fishtank.my/stations/gegar_hindi/080224/square_md.png",Gegar Hindi Power
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/ggn4nww711uvv/hls.m3u8
+#EXTINF:-1 tvg-chno="932" tvg-id="" tvg-name="Gegar Tradisi" tvg-logo="https://media2.fishtank.my/stations/gegar_tradisi/080224/square_md.png",Gegar Tradisi
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/ad2y31w711uvv/hls.m3u8
+#EXTINF:-1 tvg-chno="933" tvg-id="" tvg-name="Hitz TikTok" tvg-logo="https://media2.fishtank.my/stations/hitz_tiktok/021023/square_md.png",Hitz TikTok
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/4f3eyhz711uvv/hls.m3u8
+#EXTINF:-1 tvg-chno="934" tvg-id="" tvg-name="Hitz Throwback" tvg-logo="https://media2.fishtank.my/stations/hitz_throwback/021023/square_md.png",Hitz Throwback
+#EXTGRP:Radio
+#EXTVLCOPT:network-caching=1000
+https://stream.rcs.revma.com/yycxhcz711uvv/hls.m3u8
+#EXTINF:-1 tvg-chno="935" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/BFM89.9.png",BFM 89.9
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC
-#EXTINF:-1 tvg-chno="926" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/ManisFM.png",Manis FM
+#EXTINF:-1 tvg-chno="936" tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/sinar-irama80/080224/square_md.png",Manis FM
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
 https://stream.rcs.revma.com/nzgauqq1v7zuv
-#EXTINF:-1 tvg-chno="927" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/suriafm.png",Suria FM
+#EXTINF:-1 tvg-chno="937" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/suriafm.png",Suria FM
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
-#EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name="MelakaFM" tvg-logo="https://melakafm.rtm.gov.my/storage/app/uploads/public/607/8f6/72b/6078f672b4db1209076280.png",Melaka FM
+#EXTINF:-1 tvg-chno="938" tvg-id="" tvg-name="MelakaFM" tvg-logo="https://melakafm.rtm.gov.my/storage/app/uploads/public/607/8f6/72b/6078f672b4db1209076280.png",Melaka FM
 #EXTGRP:Radio
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/MELAKA_FMAAC_SC
