@@ -42,6 +42,11 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd?id=16
 
 #################### TEMPORARY #####################
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+#EXTINF:-1 tvg-id="103.astro" tvg-name="TV3" group-title="Temporary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png" ch-number="103",TV3 -Backup
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=hls
