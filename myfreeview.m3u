@@ -53,16 +53,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #EXTINF:-1 tvg-id="128.unifi" group-title="Temporary"  tvg-logo="",Dunia Sinema
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="615.astro" group-title="Temporary"  tvg-logo="",Cartoon Network Mongolia [English]
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-
 #EXTINF:-1 tvg-id="471.unifi" ch-number="471" group-title="Temporary" tvg-logo="https://poster.starhubgo.com/Linear_channels2/814_1920x1080_HTV.png",GEM HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+#https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #EXTINF:-1 group-title="Temporary" ch-number="472" tvg-id="472.unifi" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
