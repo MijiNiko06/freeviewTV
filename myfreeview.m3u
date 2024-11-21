@@ -5,7 +5,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="102.astro" ch-number="102" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="103.astro" ch-number="103" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
-https://tonton-live-sg1.akamaized.net/live-hls/tonton12.m3u8?&hdnts=exp=1732199950~hmac=f858a6341696b2e2741a22704312feb0edf50ef9cf8ca9e1a2424dd7bf4cc5b4
+https://tonton-live-sg1.akamaized.net/live-hls/tonton12.m3u8?&hdnts=exp=1732231497~hmac=7c5c7f6b8cdef5dc47864e62199b2209d13da6018d40b9c87a62081feadc37f3
 #EXTINF:-1 tvg-id="147.astro" ch-number="107" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
 
 #EXTINF:-1 tvg-id="148.astro" ch-number="108" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/1200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
