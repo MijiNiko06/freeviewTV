@@ -22,9 +22,7 @@ http://cdnatv.mirack.tv/Atv/manifest.mpd
 #EXTINF:-1 tvg-id="" ch-number="113" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="114.astro" ch-number="114" group-title="myFreeview" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png",TV Alhijrah
-https://raw.githubusercontent.com/MijiNiko06/temp-folder-file-ONLY/main/TV%20-Alhijrah.m3u8
-#EXTINF:-1 tvg-id="114.astro" ch-number="114" group-title="myFreeview" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png",TV Alhijrah [Alternative]
-https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.fmp4.m3u8
+https://kentut.mijinikoserver.workers.dev/tvalhijrah.m3u8
 #EXTINF:-1 tvg-id="502.astro" ch-number="121" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/1200px-Bernama_TV.png",Bernama TV
 https://raw.githubusercontent.com/MijiNiko06/YTLive/main/youtube.m3u
 #EXTINF:-1 tvg-id="122.astro" ch-number="122" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",TVS
