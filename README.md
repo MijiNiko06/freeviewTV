@@ -16,7 +16,7 @@ There are known issues that OTT Navigator cannot play ```text/plain``` , so kind
 |---|---|---|---|---|---|---|
 | TV1 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from RTMKlik | | Burn-in for select programmes |
 | TV2 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from RTMKlik | | Burn-in for select programmes |
-| TV3 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from Tonton | | Burn-in for select programmes |
+| TV3 | 1920x1080 25fps | Malaysian Variety | ✓ | Currently there's no static link | | Burn-in for select programmes |
 | DidikTV KPM | 1920x1080 25fps | Education | ✓ | Sourced from Tonton | Previously NTV7 |
 | 8TV | 1920x1080 25fps | Chinese Variety | ✓ | Sourced from Tonton | 八度空间 | Malay Subtitles burn-in for select programmes |
 | TV9 | 1920x1080 25fps | Malaysian Variety | ✓ | Sourced from Tonton | | Burn-in for select programmes |
