@@ -2,8 +2,12 @@
 
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1280px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="101.astro" ch-number="101" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1280px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1 (with subtitles)
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/DASH/tv1.mpd?id=3
 #EXTINF:-1 tvg-id="102.astro" ch-number="102" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="102.astro" ch-number="102" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV2 (Alternative)
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd?id=2
 #EXTINF:-1 tvg-id="103.astro" ch-number="103" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
 https://tonton-live-sg1.akamaized.net/live-hls/tonton12.m3u8?&hdnts=exp=1732231497~hmac=7c5c7f6b8cdef5dc47864e62199b2209d13da6018d40b9c87a62081feadc37f3
 #EXTINF:-1 tvg-id="147.astro" ch-number="107" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
@@ -14,13 +18,13 @@ https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224
 https://tonton-live-sg1.akamaized.net/live-hls/tonton15.m3u8?&hdnts=exp=1732120895~hmac=92a4a3245d02136350ac0c608084cb8e34365963ce849b3f7d145a5d73559080
 #EXTINF:-1 tvg-id="146.astro" ch-number="110" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 tvg-id="146.astro" ch-number="110" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",OKEY (Alternative)
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey1/DASH/okey1.mpd?id=3
 #EXTINF:-1 tvg-id="" ch-number="111" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/800px-Sukan_RTM_1_April.png?20240229031036",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd?id=4
 #EXTVLCOPT:http-referrer=https://awesometv.my
 #EXTINF:-1 tvg-id="123.astro" ch-number="112" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",Awesome TV
 http://cdnatv.mirack.tv/Atv/manifest.mpd
-#EXTINF:-1 tvg-id="" ch-number="113" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTINF:-1 tvg-id="114.astro" ch-number="114" group-title="myFreeview" tvg-logo="https://tvalhijrah.com/wp-content/uploads/2023/04/TV_Alhijrah_logo-1.png",TV Alhijrah
 https://kentut.mijinikoserver.workers.dev/tvalhijrah.m3u8
 #EXTINF:-1 tvg-id="502.astro" ch-number="121" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/1200px-Bernama_TV.png",Bernama TV
@@ -31,12 +35,14 @@ https://live-tvs.tvsarawak.my/live/tvs.m3u8
 https://stream2.smg.my/live/tvsplus.m3u8
 #EXTINF:-1 tvg-id="" ch-number="123" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/1200px-Logo_Berita_RTM.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#EXTINF:-1 tvg-id="" ch-number="123" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Berita_RTM.png/1200px-Logo_Berita_RTM.png",Berita RTM (with subtitles)
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/berita/DASH/berita.mpd?id=3
 #EXTINF:-1 tvg-id="" ch-number="124" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg",KSA القرآن الكريم
 https://raw.githubusercontent.com/MijiNiko06/YTLive/main/meccalive.m3u8
 #EXTINF:-1 tvg-id="501.astro" ch-number="501" group-title="myFreeview" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 #EXTINF:-1 tvg-id="" ch-number="" group-title="myFreeview" tvg-logo="https://rtm.glueapi.io/v1/content/17411/image/960x540/images.title",RTM Asean
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd?id=16
+https://d25tgymtnqzu8s.cloudfront.net/live/media0/world/DASH/world.mpd?id=38442
 
 #################### TEMPORARY #####################
 
